@@ -1,2 +1,7 @@
 # KubernetesCourse
-KubernetesCourse
+
+## Exercises
+
+### Chapter 2
+
+
